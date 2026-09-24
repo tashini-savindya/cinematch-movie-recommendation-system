@@ -1,0 +1,33 @@
+# API credentials
+.streamlit/secrets.toml
+.env
+
+# Large old model file
+similarity.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+
+# Original downloaded dataset archive
+archive.zip
+archive/
